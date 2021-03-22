@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pranhub (Pranav Tiwari)
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine learning, CCNA.
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me (im.pranav.ti@gmail.com)
 
 <!---
